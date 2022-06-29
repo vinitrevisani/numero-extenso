@@ -1,0 +1,11 @@
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\bin\Debug\ProjetoExtenso.exe.config
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\bin\Debug\ProjetoExtenso.exe
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\bin\Debug\ProjetoExtenso.pdb
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.csproj.AssemblyReference.cache
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.csproj.SuggestedBindingRedirects.cache
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.Form1.resources
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.Properties.Resources.resources
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.csproj.GenerateResource.cache
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.csproj.CoreCompileInputs.cache
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.exe
+H:\3A1POO\ProjetoExtenso\ProjetoExtenso\obj\Debug\ProjetoExtenso.pdb
